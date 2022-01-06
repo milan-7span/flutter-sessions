@@ -1,5 +1,5 @@
 # flutter-session
 
-7th January 2022 - "Exploring useful Flutter Widgets" - A session to upskill your Flutter Knowledge
+7th January 2022 - "Exploring useful Flutter Widgets"
 
-Widget 1 - https://gist.github.com/milan-7span/1a98df128874ca1f2b5e211fc7d758e3
+Widget 1 - https://dartpad.dev/?id=e2ec4327b726fa5f5f3b892d8dafccc0
